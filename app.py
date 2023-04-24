@@ -4,25 +4,25 @@ app=Flask(__name__)
 JOBS=[
   {
     'id':1,
-    'title':'data analyst',
+    'title':'Data Analyst',
     'location':'bengaluru,India',
     'salary':'₹12 LPA'
   },
    {
     'id':2,
-    'title':'data scientist',
+    'title':'Data Scientist',
     'location':'kolkata,India',
      'salary' : '₹7LPA'
   },
    {
     'id':3,
-    'title':'Front-end-Engineer',
+    'title':'Front-End-Engineer',
     'location':'Mumbai,India',
     'salary':'₹10 LPA'
   },
    {
     'id':4,
-    'title':'back-end-engineer',
+    'title':'Back-End-Engineer',
     'location':'San fransisco,USA',
     'salary':'$120,000 PA'
   }
